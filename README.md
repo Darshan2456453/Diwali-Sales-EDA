@@ -1,4 +1,4 @@
-# 🪔 Diwali Sales Data Analysis
+# Diwali Sales Data Analysis
 
 This project explores *customer purchasing behavior during the Diwali festival* using Python.  
 It covers *data cleaning, descriptive statistics, and visualizations* to find insights by gender, age, state, occupation, and product category.
