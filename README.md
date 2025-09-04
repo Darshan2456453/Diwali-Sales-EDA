@@ -8,7 +8,7 @@ It covers *data cleaning, descriptive statistics, and visualizations* to find in
 ## 🔗 Run the Notebook
 Click below to view and run the analysis in Google Colab:  
 
-[![Open In Colab](https://colab.research.google.com/github/Darshan2456453/Diwali-Sales-EDA/blob/main/Diwali_Sales_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Darshan2456453/Diwali-Sales-EDA/blob/main/Diwali_Sales_Analysis.ipynb)
 
 ---
 
